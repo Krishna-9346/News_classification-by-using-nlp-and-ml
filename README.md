@@ -1,4 +1,4 @@
-📰 News Category Classification using NLP & Machine Learning
+📰 ** News Category Classification using NLP & Machine Learning **
 ✅ Project Overview
 This project classifies news articles into 4 categories:
 World
